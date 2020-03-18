@@ -23,7 +23,8 @@ then use like this :
   action={this.onClick}/>
 ```
 ## Properties
-| Prop  | Default  | Type | Description | Optional
+| Prop  | Default  | Type | Description | Optional |
+| --- | --- | --- | --- | --- |
 | style | `width: 100%` | `style object`| Change the default style of the base button | yes
 | iconStyle | - | `style object`| Change the default style of the icon in the button | yes
 | textStyle | - | `style object`| Change the default style of the text in the button | yes
