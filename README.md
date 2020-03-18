@@ -34,4 +34,14 @@ then use like this :
 
 By default all the properties are optional but if you want to use see it I propose to add at least one of these properties : `style`, `text`, `icon`
 
+## Tips
+
+By default the background take the full width of the screen
+BUT if you want to crop it to the size of the icon add the style propertie with following lines :
+```javascript
+left: 0,
+right: 0,
+alignSelf:'center'
+```
+
 Enjoy :)

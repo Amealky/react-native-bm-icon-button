@@ -45,12 +45,13 @@ class IconButton extends Component {
  const styles = StyleSheet.create({
 
     viewStyle : {
-      backgroundColor: 'transparent'
+      backgroundColor: 'transparent',
     },
     imageIconStyle : {
       margin: 10,
-      height:10,
-      width: 10,
+      height:50,
+      width: 50,
+      resizeMode: 'contain',
       alignSelf: 'center'
     },
     textStyle: {
