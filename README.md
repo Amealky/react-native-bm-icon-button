@@ -10,7 +10,10 @@ React native module to add a button icon (with text or not)
 `$ react-native link react-native-bm-icon-button`
 
 ## How to use
-Start by adding ```javascript import BmIconButton from 'react-native-bm-icon-button';```
+Start by adding
+```javascript
+import BmIconButton from 'react-native-bm-icon-button';
+```
 
 then use like this :
 ```javascript
