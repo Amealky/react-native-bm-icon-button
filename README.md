@@ -8,7 +8,7 @@
 </p>
 
 ## Preview
-![Preview](http://metautbenjamin.com:3000/file/image/rn_mb_button.png)
+![Preview](https://metautbenjamin.com:3000/file/image/rn_mb_buttonTitle.png)
 
 
 React native module to add a button icon (with text or not)
