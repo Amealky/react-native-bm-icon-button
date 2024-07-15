@@ -1,15 +1,14 @@
-<h1 align="center"> react-native-bm-icon-button :iphone:</h1>
+<h1 align="center">:iphone: react-native-bm-icon-button :iphone:</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/platform-android-green.svg" />
-<img src="https://img.shields.io/badge/platform-iOS-blue.svg" />
-<img src="https://img.shields.io/badge/language-Javascript-orange.svg" />
-<img src="https://img.shields.io/badge/License-MIT-blue" />
+  <img src="https://img.shields.io/badge/Android-%204--2--1?style=for-the-badge&label=platform&color=green">
+  <img src="https://img.shields.io/badge/IOS-%204--2--1?style=for-the-badge&label=platform&color=blue">
+  <img src="https://img.shields.io/badge/Javascript-%204--2--1?style=for-the-badge&label=Language&color=orange">
 </p>
 
-## Preview
-![Preview](https://i.ibb.co/nrrRtqr/Capture-d-e-cran-2024-01-23-a-23-06-48.png)
-
+<p align="center">
+   <img src="https://i.ibb.co/nrrRtqr/Capture-d-e-cran-2024-01-23-a-23-06-48.png">
+</p>
 
 React native module to add a button icon (with text or not)
 ## Getting started
